@@ -27,7 +27,7 @@
 		<swagger.version>2.9.2</swagger.version>
 		<guava.version>20.0</guava.version>
 		<zhenzi.version>1.0.4</zhenzi.version>
-		<mysql.version>8.0.11</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<spring.swagger>2.7.0</spring.swagger>
 	</properties>
 
@@ -180,7 +180,7 @@
 					<dependency>
 						<groupId>mysql</groupId>
 						<artifactId>mysql-connector-java</artifactId>
-						<version>5.1.45</version>
+						<version>8.0.16</version>
 					</dependency>
 				</dependencies>
 			</plugin>
